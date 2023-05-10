@@ -1,6 +1,3 @@
-# LJSilverStar
-Projects done by me
-
 # Projects at CU Boulder
   - Projects done in classes I take at University of Colorado Boulder
   - Codes, reports, and other miscellaneous 
