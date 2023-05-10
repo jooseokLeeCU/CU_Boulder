@@ -14,8 +14,10 @@ Predicting the level of particulate matter (PM2.5) is becoming increasingly cruc
 Machine Learning, CNN, LSTM, XGBoost, PM2.5, Time-series, Forecast, Python, Keras, Sklearn
 
 # Codes
-- CSV_merger can be found here
-- 
+- CSV_merger code can be found here
+- Preprocessing code can be found here
+- EDA code can be found here
+- Model training & analysis code can be found here
 
 # Reports
 - Project proposal can be found here
