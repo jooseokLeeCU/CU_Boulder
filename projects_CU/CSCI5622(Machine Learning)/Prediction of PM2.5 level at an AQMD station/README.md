@@ -20,6 +20,6 @@ Machine Learning, CNN, LSTM, XGBoost, PM2.5, Time-series, Forecast, Python, Kera
 - Model training & analysis code can be found [here](https://github.com/jooseokLeeCU/ljsilverstar/blob/main/projects_CU/CSCI5622(Machine%20Learning)/Prediction%20of%20PM2.5%20level%20at%20an%20AQMD%20station/Model%20Training%20%26%20Analysis.ipynb)
 
 # Reports
-- Project proposal can be found [here]()
-- Poster can be found [here]()
-- Final report can be found [here]()
+- Project proposal can be found [here](https://github.com/jooseokLeeCU/ljsilverstar/blob/main/projects_CU/CSCI5622(Machine%20Learning)/Prediction%20of%20PM2.5%20level%20at%20an%20AQMD%20station/%5BProposal%5D%20Prediction%20of%20PM2.5%20level%20at%20an%20AQMD%20station.pdf)
+- Poster can be found [here](https://github.com/jooseokLeeCU/ljsilverstar/blob/main/projects_CU/CSCI5622(Machine%20Learning)/Prediction%20of%20PM2.5%20level%20at%20an%20AQMD%20station/%5BPoster%5D%20Prediction%20of%20PM2.5%20level%20at%20an%20AQMD%20station.pdf)
+- Final report can be found [here](https://github.com/jooseokLeeCU/ljsilverstar/blob/main/projects_CU/CSCI5622(Machine%20Learning)/Prediction%20of%20PM2.5%20level%20at%20an%20AQMD%20station/%5BFinal%5D%20Prediction%20of%20PM2.5%20level%20at%20an%20AQMD%20station.pdf)
