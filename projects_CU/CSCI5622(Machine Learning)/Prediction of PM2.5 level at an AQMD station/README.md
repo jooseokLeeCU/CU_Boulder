@@ -14,12 +14,12 @@ Predicting the level of particulate matter (PM2.5) is becoming increasingly cruc
 Machine Learning, CNN, LSTM, XGBoost, PM2.5, Time-series, Forecast, Python, Keras, Sklearn
 
 # Codes
-- CSV_merger code can be found here
-- Preprocessing code can be found here
-- EDA code can be found here
-- Model training & analysis code can be found here
+- CSV_merger code can be found [here](https://github.com/jooseokLeeCU/ljsilverstar/blob/main/projects_CU/CSCI5622(Machine%20Learning)/Prediction%20of%20PM2.5%20level%20at%20an%20AQMD%20station/Data/csv_merger.ipynb)
+- Preprocessing code can be found [here](https://github.com/jooseokLeeCU/ljsilverstar/blob/main/projects_CU/CSCI5622(Machine%20Learning)/Prediction%20of%20PM2.5%20level%20at%20an%20AQMD%20station/Preprocessing.ipynb)
+- EDA code can be found [here](https://github.com/jooseokLeeCU/ljsilverstar/blob/main/projects_CU/CSCI5622(Machine%20Learning)/Prediction%20of%20PM2.5%20level%20at%20an%20AQMD%20station/EDA.ipynb)
+- Model training & analysis code can be found [here](https://github.com/jooseokLeeCU/ljsilverstar/blob/main/projects_CU/CSCI5622(Machine%20Learning)/Prediction%20of%20PM2.5%20level%20at%20an%20AQMD%20station/Model%20Training%20%26%20Analysis.ipynb)
 
 # Reports
-- Project proposal can be found here
-- Poster can be found here
-- Final report can be found here
+- Project proposal can be found [here]()
+- Poster can be found [here]()
+- Final report can be found [here]()
